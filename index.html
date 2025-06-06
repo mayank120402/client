@@ -209,6 +209,9 @@ function sendMessage() {
   document.getElementById("studentMessage").value = "";
   renderMessages();
 }
+
+const res = await fetch('questions.json');
+
 </script>
 </body>
 </html>
