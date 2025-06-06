@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "options": {
+      "A": "Central Process Unit",
+      "B": "Central Processing Unit",
+      "C": "Computer Personal Unit",
+      "D": "Central Processor Utility"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Which device is used to input text and characters?",
+    "options": {
+      "A": "Monitor",
+      "B": "CPU",
+      "C": "Keyboard",
+      "D": "Mouse"
+    },
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Which is the main part of the computer that does calculations?",
+    "options": {
+      "A": "RAM",
+      "B": "Motherboard",
+      "C": "Hard Disk",
+      "D": "CPU"
+    },
+    "correctAnswer": "D"
+  },
+  {
+    "question": "What is the permanent memory built into your computer?",
+    "options": {
+      "A": "RAM",
+      "B": "ROM",
+      "C": "CPU",
+      "D": "Hard Disk"
+    },
+    "correctAnswer": "B"
+  },
+  {
+    "question": "What kind of software is MS Word?",
+    "options": {
+      "A": "Operating System",
+      "B": "Application Software",
+      "C": "Compiler",
+      "D": "System Software"
+    },
+    "correctAnswer": "B"
+  }
+]
